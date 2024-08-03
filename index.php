@@ -75,4 +75,3 @@
 </html>
 
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic iusto porro doloremque quaerat voluptate quas? Sit, enim sint optio fugit, ex aliquid eos dicta animi nulla nesciunt commodi quasi accusantium.
